@@ -1,0 +1,659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Incubator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-08 18:26+0300\n"
+"PO-Revision-Date: 2016-08-31 22:26+0300\n"
+"Last-Translator: Bogdan Costescu <costescu.bogdan@yahoo.com>\n"
+"Language-Team: KeyDesign <support@themetek.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:38 ../front-page.php:33 ../home.php:48 ../index.php:48
+#: ../search.php:37
+msgid "No comments yet"
+msgstr ""
+
+#: ../archive.php:38 ../front-page.php:33 ../home.php:48 ../index.php:48
+#: ../search.php:37
+msgid "1 comment"
+msgstr ""
+
+#: ../archive.php:38 ../front-page.php:33 ../home.php:48 ../index.php:48
+#: ../search.php:37
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../archive.php:42 ../front-page.php:37 ../home.php:52 ../index.php:52
+#: ../search.php:41
+msgid "Previous"
+msgstr ""
+
+#: ../archive.php:42 ../front-page.php:37 ../home.php:52 ../index.php:52
+#: ../search.php:41 ../single-portfolio.php:220
+msgid "Next"
+msgstr ""
+
+#: ../archive.php:52 ../search.php:51
+msgid "Nothing Found"
+msgstr ""
+
+#: ../archive.php:54 ../search.php:54
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: ../archive.php:56 ../search.php:56
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again using "
+"different keywords."
+msgstr ""
+
+#: ../archive.php:59 ../search.php:59
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../comments.php:14
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:17 ../comments.php:33
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:18 ../comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:19 ../comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:50
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:51
+msgid " - Cancel Reply"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Post a Comment"
+msgstr ""
+
+#: ../core/init.php:228
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../core/templates/portfolio/portfolio-meta.php:2
+msgid "Category"
+msgstr ""
+
+#: ../core/templates/portfolio/portfolio-meta.php:18
+msgid "Date published"
+msgstr ""
+
+#: ../core/templates/portfolio/portfolio-meta.php:22
+msgid "Share on"
+msgstr ""
+
+#: ../core/theme-activation.php:74
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../core/theme-activation.php:75
+msgid "Install Plugins"
+msgstr ""
+
+#: ../core/theme-activation.php:76
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../core/theme-activation.php:77
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../core/theme-activation.php:78
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../core/theme-activation.php:79
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../core/theme-activation.php:80
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: ../core/theme-activation.php:81
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../core/theme-activation.php:82
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../core/theme-activation.php:83
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: ../core/theme-activation.php:84
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../core/theme-activation.php:85
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: ../core/theme-activation.php:86
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../core/theme-activation.php:87
+msgid "Activate installed plugin"
+msgstr ""
+
+#: ../core/theme-activation.php:88
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../core/theme-activation.php:89
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../core/theme-activation.php:90
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:12
+msgid "Page title & subtitle:"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:17
+msgid "Page settings:"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:23
+msgid "Grid item size:"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:28
+msgid "Single page template"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:44
+msgid "Hide page title"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:52
+msgid "If checked, title will be hidden."
+msgstr ""
+
+#: ../core/theme-pagemeta.php:58
+msgid "Page subtitle"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:62
+msgid "Write the section subtitle. Displayed under the main page title."
+msgstr ""
+
+#: ../core/theme-pagemeta.php:81
+msgid "Overlay"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:89
+msgid "If checked, an overlay having the main theme color will be applied."
+msgstr ""
+
+#: ../core/theme-pagemeta.php:95
+msgid "Full width"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:103
+msgid "If checked, section will be set to full width."
+msgstr ""
+
+#: ../core/theme-pagemeta.php:109
+msgid "Background color"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:113
+msgid "Specify the page background color. Eg. #FFFFFF"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:119
+msgid "Top padding"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:123
+msgid "Specify the page top padding value. Eg. 10px"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:129
+msgid "Bottom padding"
+msgstr ""
+
+#: ../core/theme-pagemeta.php:133
+msgid "Specify the page bottom padding value. Eg. 10px"
+msgstr ""
+
+#: ../core/theme-sidebars.php:7
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../core/theme-sidebars.php:9
+msgid ""
+"Add widgets for the blog sidebar area. If none added, default sidebar "
+"widgets will be used."
+msgstr ""
+
+#: ../core/theme-sidebars.php:17
+msgid "Footer first widget area"
+msgstr ""
+
+#: ../core/theme-sidebars.php:19
+msgid "Add one widget for the first footer widget area."
+msgstr ""
+
+#: ../core/theme-sidebars.php:27
+msgid "Footer second widget area"
+msgstr ""
+
+#: ../core/theme-sidebars.php:29
+msgid "Add one widget for the second footer widget area."
+msgstr ""
+
+#: ../core/theme-sidebars.php:37
+msgid "Footer third widget area"
+msgstr ""
+
+#: ../core/theme-sidebars.php:39
+msgid "Add one widget for the third footer widget area."
+msgstr ""
+
+#: ../core/theme-sidebars.php:47
+msgid "Footer fourth widget area"
+msgstr ""
+
+#: ../core/theme-sidebars.php:49
+msgid "Add one widget for the fourth footer widget area."
+msgstr ""
+
+#: ../core/widgets/socials.php:14
+msgid "List your social media links."
+msgstr ""
+
+#: ../front-page.php:48 ../home.php:63 ../index.php:63 ../single.php:54
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: ../front-page.php:50 ../home.php:65 ../index.php:65
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../header.php:129
+msgid "Currently browsing"
+msgstr ""
+
+#: ../header.php:133
+msgid "Search result for"
+msgstr ""
+
+#: ../header.php:137
+msgid "All posts tagged"
+msgstr ""
+
+#: ../header.php:141
+msgid "All posts by"
+msgstr ""
+
+#: ../header.php:145 ../header.php:149 ../header.php:153
+msgid "Posts archive for"
+msgstr ""
+
+#: ../page.php:35
+msgid "Sorry, this page does not exist."
+msgstr ""
+
+#: ../single-portfolio.php:213
+msgid "Prev"
+msgstr ""
+
+#: ../single.php:56
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: ../themetek/options-init.php:94
+msgid "Section via hook"
+msgstr ""
+
+#: ../themetek/options-init.php:95
+msgid ""
+"\n"
+"    <p class=\"description\">\n"
+"        This is a section created by adding a filter to the sections array. "
+"Can be used by child themes to add/remove sections from the options.\n"
+"    </p>\n"
+"    "
+msgstr ""
+
+#: ../themetek/options-init.php:173
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: ../themetek/options-init.php:224
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: ../themetek/options-init.php:228
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../themetek/options-init.php:232
+msgid "Tags"
+msgstr ""
+
+#: ../themetek/options-init.php:254
+msgid "Global Options"
+msgstr ""
+
+#: ../themetek/options-init.php:260
+msgid "Main theme color"
+msgstr ""
+
+#: ../themetek/options-init.php:267
+msgid "Secondary theme color"
+msgstr ""
+
+#: ../themetek/options-init.php:275
+msgid "Logo"
+msgstr ""
+
+#: ../themetek/options-init.php:276
+msgid "Upload logo image"
+msgstr ""
+
+#: ../themetek/options-init.php:285
+msgid "Secondary Logo"
+msgstr ""
+
+#: ../themetek/options-init.php:286
+msgid "Upload logo image for Scrolled NavBar"
+msgstr ""
+
+#: ../themetek/options-init.php:296
+msgid "Favicon"
+msgstr ""
+
+#: ../themetek/options-init.php:297
+msgid "Upload favicon image"
+msgstr ""
+
+#: ../themetek/options-init.php:305
+msgid "Enable elements appear animation"
+msgstr ""
+
+#: ../themetek/options-init.php:306
+msgid "Turn on/off appear animation"
+msgstr ""
+
+#: ../themetek/options-init.php:312
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: ../themetek/options-init.php:313
+msgid "Turn on/off maintenance mode"
+msgstr ""
+
+#: ../themetek/options-init.php:319
+msgid "Coming Soon Page"
+msgstr ""
+
+#: ../themetek/options-init.php:321
+msgid "Choose coming soon page"
+msgstr ""
+
+#: ../themetek/options-init.php:327
+msgid "Custom CSS"
+msgstr ""
+
+#: ../themetek/options-init.php:328
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: ../themetek/options-init.php:338
+msgid "Header"
+msgstr ""
+
+#: ../themetek/options-init.php:344
+msgid "Select main navigation style."
+msgstr ""
+
+#: ../themetek/options-init.php:345
+msgid "You can choose between full width and contained."
+msgstr ""
+
+#: ../themetek/options-init.php:355
+msgid "Revolution Slider shortcode"
+msgstr ""
+
+#: ../themetek/options-init.php:356
+msgid "Insert Revolution Slider shortcode here"
+msgstr ""
+
+#: ../themetek/options-init.php:362
+msgid "Show scroll button under the slider"
+msgstr ""
+
+#: ../themetek/options-init.php:363 ../themetek/options-init.php:574
+msgid "Turn on/off this feature"
+msgstr ""
+
+#: ../themetek/options-init.php:371
+msgid "Header button"
+msgstr ""
+
+#: ../themetek/options-init.php:377
+msgid "Show button in header"
+msgstr ""
+
+#: ../themetek/options-init.php:383
+msgid "Button text"
+msgstr ""
+
+#: ../themetek/options-init.php:390
+msgid "Button action"
+msgstr ""
+
+#: ../themetek/options-init.php:401
+msgid "Modal title"
+msgstr ""
+
+#: ../themetek/options-init.php:408
+msgid "Modal subtitle"
+msgstr ""
+
+#: ../themetek/options-init.php:415
+msgid "Contact Form ID"
+msgstr ""
+
+#: ../themetek/options-init.php:423
+msgid "Scroll to section ID"
+msgstr ""
+
+#: ../themetek/options-init.php:432
+msgid "Typography"
+msgstr ""
+
+#: ../themetek/options-init.php:438
+msgid "Body font settings"
+msgstr ""
+
+#: ../themetek/options-init.php:473
+msgid "Headings font settings"
+msgstr ""
+
+#: ../themetek/options-init.php:510
+msgid "Blog"
+msgstr ""
+
+#: ../themetek/options-init.php:515
+msgid "Blog Subtitle"
+msgstr ""
+
+#: ../themetek/options-init.php:522
+msgid "Display sidebar"
+msgstr ""
+
+#: ../themetek/options-init.php:523
+msgid "Turn on/off blog sidebar"
+msgstr ""
+
+#: ../themetek/options-init.php:530
+msgid "404 Page"
+msgstr ""
+
+#: ../themetek/options-init.php:535
+msgid "Title"
+msgstr ""
+
+#: ../themetek/options-init.php:542
+msgid "Subtitle"
+msgstr ""
+
+#: ../themetek/options-init.php:549
+msgid "Back to homepage text"
+msgstr ""
+
+#: ../themetek/options-init.php:557
+msgid "Background Image"
+msgstr ""
+
+#: ../themetek/options-init.php:558
+msgid "Upload 404 overlay image"
+msgstr ""
+
+#: ../themetek/options-init.php:567
+msgid "Footer"
+msgstr ""
+
+#: ../themetek/options-init.php:573
+msgid "Show back to top button"
+msgstr ""
+
+#: ../themetek/options-init.php:580
+msgid "Copyright Text"
+msgstr ""
+
+#: ../themetek/options-init.php:581
+msgid "Enter footer bottom copyright text"
+msgstr ""
+
+#: ../themetek/options-init.php:587
+msgid "Social Icons"
+msgstr ""
+
+#: ../themetek/options-init.php:588
+msgid "Select visible social icons"
+msgstr ""
+
+#: ../themetek/options-init.php:611
+msgid "Facebook Link"
+msgstr ""
+
+#: ../themetek/options-init.php:612
+msgid "Enter Facebook url"
+msgstr ""
+
+#: ../themetek/options-init.php:620
+msgid "Twitter Link"
+msgstr ""
+
+#: ../themetek/options-init.php:621
+msgid "Enter Twitter url"
+msgstr ""
+
+#: ../themetek/options-init.php:629
+msgid "Google+ Link"
+msgstr ""
+
+#: ../themetek/options-init.php:630
+msgid "Enter Google+ url"
+msgstr ""
+
+#: ../themetek/options-init.php:636
+msgid "Pinterest Link"
+msgstr ""
+
+#: ../themetek/options-init.php:637
+msgid "Enter Pinterest url"
+msgstr ""
+
+#: ../themetek/options-init.php:645
+msgid "Youtube Link"
+msgstr ""
+
+#: ../themetek/options-init.php:646
+msgid "Enter Youtube url"
+msgstr ""
+
+#: ../themetek/options-init.php:653
+msgid "Linkedin Link"
+msgstr ""
+
+#: ../themetek/options-init.php:654
+msgid "Enter Linkedin url"
+msgstr ""
+
+#: ../themetek/options-init.php:662
+msgid "Import/Export "
+msgstr ""
+
+#: ../themetek/options-init.php:663 ../themetek/options-init.php:669
+msgid "Import and Export Theme Options"
+msgstr ""

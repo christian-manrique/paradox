@@ -1,0 +1,3 @@
+[11-Mar-2017 04:29:46 CST6CDT] PHP Fatal error:  Call to undefined function get_option() in /home/keydesi8/public_html/incubator/wp-content/themes/incubator/index.php on line 17
+[11-Mar-2017 04:31:05 CST6CDT] PHP Fatal error:  Call to undefined function get_option() in /home/keydesi8/public_html/incubator/wp-content/themes/incubator/index.php on line 17
+[09-May-2017 10:41:21 CST6CDT] PHP Fatal error:  Call to undefined function get_option() in /home/keydesi8/public_html/incubator/wp-content/themes/incubator/index.php on line 17
